@@ -8,5 +8,6 @@ Web3 Applications audited:
 - Curve Finance
 - Beefy Finance
 - Velodrome
+- Nested Finance
 
 Motivation: https://github.com/ethereum-optimism/ecosystem-contributions/issues/70
