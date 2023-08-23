@@ -9,5 +9,6 @@ Web3 Applications audited:
 - Beefy Finance
 - Velodrome
 - Nested Finance
+- Kyber Swap
 
 Motivation: https://github.com/ethereum-optimism/ecosystem-contributions/issues/70
