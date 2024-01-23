@@ -10,5 +10,6 @@ Web3 Applications audited:
 - Velodrome
 - Nested Finance
 - Kyber Swap
+- Arrakis Finance
 
 Motivation: https://github.com/ethereum-optimism/ecosystem-contributions/issues/70
